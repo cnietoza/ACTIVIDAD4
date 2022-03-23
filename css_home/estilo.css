@@ -1,0 +1,27 @@
+.barra{
+    background: red !important ;
+}
+
+
+.body{
+    background: black;
+    text-align: center;
+}
+
+.barra{
+    background: greenyellow !important ;
+}
+
+.pfotografia{
+    text-align: center;
+    font-size: 20px;
+    color: green;
+    padding-bottom: 15%;
+}
+.pfotografia{
+    width: 800px;
+    display: block;
+    margin: 135px auto;
+    border-radius: 15px;
+}
+

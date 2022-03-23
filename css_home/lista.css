@@ -1,0 +1,46 @@
+.main_header{
+    width: 100%;
+    height: 110px;
+    z-index: 101;
+    background: #000;
+    font-size: 23px;
+    font-family: cursive;
+    text-align: left;
+    margin: -8px;
+}
+
+.outsourcing{
+    background: #000;
+    margin: auto;
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+.lista ul{
+    padding: 0;
+    margin: 0;
+    list-style-position: initial;
+    display: inline-table;
+}
+
+
+.lista li {
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+
+.lista li a:hover{
+    color: aqua;
+    text-decoration: overline;
+}
+
+.lista li a{
+    display: block;
+    padding: 15px;
+    text-decoration: turquoise;
+    color: white;
+}
+
+
